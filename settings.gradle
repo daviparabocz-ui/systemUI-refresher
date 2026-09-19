@@ -1,0 +1,2 @@
+rootProject.name = "SystemUIRefresh"
+include ':app'
